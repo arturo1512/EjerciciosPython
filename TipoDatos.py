@@ -1,0 +1,7 @@
+print("hola")
+type(2.0)
+print(type(False))
+print(type(2.0))
+print(type(3.232321321312))
+print(type("hola"))
+print(type(1))

@@ -1,0 +1,12 @@
+suma = 3 + 5
+print("la suma es",suma)
+resta = 5 - 9
+print("la resta es", resta)
+division = 5 / 3
+print("la División es: ", division)
+diveneros = 5 // 3
+print("La division de enteros es;", diveneros)
+modulo = 5 % 3
+print("El modulo es:", modulo)
+pontencia = 2**3
+print("La potencias es:",pontencia)
